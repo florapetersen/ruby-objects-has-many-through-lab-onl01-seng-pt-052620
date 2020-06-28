@@ -11,7 +11,6 @@ class Doctor
 
   def self.all
     @@all
-    binding.pry
   end
 
 
