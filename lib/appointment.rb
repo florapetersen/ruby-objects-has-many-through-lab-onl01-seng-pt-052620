@@ -15,5 +15,6 @@ class Appointment
   end
 
   def patient
+    
   end
 end
